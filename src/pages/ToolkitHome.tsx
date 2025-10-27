@@ -26,7 +26,7 @@ export default function ToolkitHome(){
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
 <a
-  href="https://edra-eiq-calculator-28j45zjuv.vercel.app/"
+  href="https://edra-eiq-calculator.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
   className="group bg-white border border-slate-200 rounded-lg p-5 hover:border-edra-500 hover:shadow-soft transition-all block"
