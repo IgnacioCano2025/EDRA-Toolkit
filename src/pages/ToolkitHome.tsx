@@ -25,7 +25,7 @@ export default function ToolkitHome(){
       </header>
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        <Card to="/tools/eiq" title="Calculadora de EIQ"
+        <Card to="https://edra-eiq-calculator-28j45zjuv.vercel.app/" title="Calculadora de EIQ"
           desc="Indice de Impacto Ambiental para manejo responsable de fitosanitarios."
           icon={<FlaskConical />} />
         <Card to="/tools/stir" title="Calculadora STIR"
