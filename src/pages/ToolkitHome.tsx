@@ -47,10 +47,10 @@ export default function ToolkitHome(){
           desc="Assessments de riesgo y parámetros para aplicaciones seguras."
           icon={<Sprout />} />
         <Card to="/docs/instructivos" title="Instructivos"
-          desc="Guías paso a paso: carga de lotes, evidencias, fotos geoetiquetadas y más."
+          desc="Guías paso a paso: carga de lotes, evidencias, fotos geolocalizadas y más."
           icon={<ClipboardList />} />
         <Card to="/docs/manuales" title="Manuales de prácticas"
-          desc="Buenas prácticas agrícolas, regenerativas y de circularidad."
+          desc="Buenas prácticas de agricultura regenerativa para mejorar tus indicadores."
           icon={<BookOpen />} />
         <Card to="/tools/certificates" title="Framework y categorización"
           desc="Verificá el framwork en base al cual categorizamos indicadores y lotes."
@@ -61,7 +61,7 @@ export default function ToolkitHome(){
             <div className="p-2 rounded-md bg-slate-100 text-slate-700 group-hover:bg-edra-50 group-hover:text-edra-700"><ExternalLink /></div>
             <div>
               <h3 className="text-base font-semibold">Plataforma EDRA</h3>
-              <p className="text-sm text-slate-500">Ingresá a la plataforma para gestionar tus programas.</p>
+              <p className="text-sm text-slate-500">Ingresá a la plataforma para gestionar tus programas y proporcionar tus pruebas de evidencia.</p>
             </div>
           </div>
         </a>
